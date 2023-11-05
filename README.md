@@ -66,6 +66,63 @@ The project is organized into three main folders:
 
 ## Screenshots
 
+- Landing Page Web
+![WhatsApp Image 2023-10-29 at 13 22 17_0da5c380](https://github.com/Archit1706/FitSphere/assets/75872913/2a2a11cf-46ff-4e61-b607-2a2d3069583f)
+
+- Landing Page Mobile
+![WhatsApp Image 2023-10-29 at 13 22 51_93803826](https://github.com/Archit1706/FitSphere/assets/75872913/6502defe-bc7d-4e98-bb82-bb0ff1fff8f8)
+
+- Hourly Steps Tracked
+  ![WhatsApp Image 2023-10-29 at 13 24 29_cb23e3c3](https://github.com/Archit1706/FitSphere/assets/75872913/6ef02735-ad29-4b5f-96c5-2cf60a54ec3c)
+
+- Steps Counter Dashboard - Mobile
+![WhatsApp Image 2023-10-29 at 13 25 05_a1df05bb](https://github.com/Archit1706/FitSphere/assets/75872913/255c49b5-4e35-47b1-a2e5-e1d9cd6eb09a)
+
+- Weight Tracker - Web
+![WhatsApp Image 2023-10-29 at 13 26 19_e0ec1007](https://github.com/Archit1706/FitSphere/assets/75872913/7aac71df-e849-4f64-9a1a-baef4a3aeafa)
+
+- Weight Tracker - Mobile
+![WhatsApp Image 2023-10-29 at 13 25 42_8c921d3c](https://github.com/Archit1706/FitSphere/assets/75872913/5ca1f26a-cb4f-4ec4-ae16-998f83c96ff4)
+
+- Posture Detection
+![WhatsApp Image 2023-10-29 at 13 29 10_54ca8bb0](https://github.com/Archit1706/FitSphere/assets/75872913/efa39967-da40-4f40-b9d2-d2c3bca67497)
+
+- Posture Detection - Upload Video
+![WhatsApp Image 2023-10-29 at 13 29 29_99a438aa](https://github.com/Archit1706/FitSphere/assets/75872913/06d2949d-ae10-46e7-ad36-7595a36476d4)
+
+- Posture Detection - Upload Video - Mobile
+![WhatsApp Image 2023-10-29 at 13 29 50_52afe16d](https://github.com/Archit1706/FitSphere/assets/75872913/399c0f70-6796-424b-9f8a-3a2a63c9c051)
+
+- Seven Day Plan / Recommendation
+![WhatsApp Image 2023-10-29 at 13 30 44_c1ae7b94](https://github.com/Archit1706/FitSphere/assets/75872913/a0fb7f61-dcda-4921-b687-0e0a12bd841f)
+
+- Seven Day Plan - Web
+![WhatsApp Image 2023-10-29 at 13 31 55_4b2c9624](https://github.com/Archit1706/FitSphere/assets/75872913/00f10769-b34f-4719-9701-265f401b72b0)
+
+- Fitness Plan - Web
+![WhatsApp Image 2023-10-29 at 13 54 58_8dbb8a53](https://github.com/Archit1706/FitSphere/assets/75872913/43fdfbab-5944-418a-abeb-8951f137c1fb)
+
+- Fitness Plan
+![WhatsApp Image 2023-10-29 at 13 31 11_b226d829](https://github.com/Archit1706/FitSphere/assets/75872913/31441509-c555-4218-9281-2cb9cffbe060)
+
+- Leaderboard
+![WhatsApp Image 2023-10-29 at 13 32 15_20599399](https://github.com/Archit1706/FitSphere/assets/75872913/28760b68-3864-4004-8815-9f913025f6c3)
+
+- Events Mobile
+![WhatsApp Image 2023-10-29 at 13 56 13_efa563ef](https://github.com/Archit1706/FitSphere/assets/75872913/0fec3a50-4f8c-482b-b31d-d0460ecc5b92)
+
+- Events Web
+![WhatsApp Image 2023-10-29 at 13 32 55_9f73bea1](https://github.com/Archit1706/FitSphere/assets/75872913/8d6ee51e-c6df-435a-bda0-8556c803db8c)
+
+- Store
+![WhatsApp Image 2023-10-29 at 13 35 08_3482479a](https://github.com/Archit1706/FitSphere/assets/75872913/a9ab90e6-1df5-4630-86e4-a3ab52c262aa)
+
+- Store Product - Mobile
+![WhatsApp Image 2023-10-29 at 13 35 41_525151aa](https://github.com/Archit1706/FitSphere/assets/75872913/17413d10-cb06-4c44-b120-a8c717afb5a4)
+
+- Sets and Reps Tracker
+![WhatsApp Image 2023-10-29 at 13 37 32_1391ec9e](https://github.com/Archit1706/FitSphere/assets/75872913/7a2b53ac-5408-4a6f-9010-867a7694dc36)
+
 ## Contributing
 
 Feel free to contribute to this project by opening issues, submitting pull requests, or providing feedback. We welcome any improvements or new features.
