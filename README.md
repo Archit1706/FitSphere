@@ -9,6 +9,7 @@
 -   [Project Structure](#project-structure)
 -   [Installation](#installation)
 -   [Usage](#usage)
+-   [Demo](#demo)
 -   [Screenshots](#screenshots)
 -   [Contributing](#contributing)
 -   [License](#license)
@@ -63,6 +64,19 @@ The project is organized into three main folders:
 -   Start the frontend and backend servers.
 -   Access the FitSphere system through a web browser or mobile app.
 -   Follow the on-screen instructions to track your workouts and fitness progress.
+-   
+
+## Demo 
+
+
+https://github.com/Archit1706/FitSphere/assets/75872913/6bba28bd-1e3b-4657-aa5d-0d5f8db72a2e
+
+
+https://github.com/Archit1706/FitSphere/assets/75872913/6088d080-63fc-46dc-a0cf-2dc12f8ccfc4
+
+
+https://github.com/Archit1706/FitSphere/assets/75872913/04d76e6a-a3c4-413a-8c34-7d10a914771e
+
 
 ## Screenshots
 
